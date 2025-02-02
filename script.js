@@ -21,7 +21,7 @@ function saveGame() {
     localStorage.setItem('game', JSON.stringify(game));
 }
 console.log(localStorage.getItem('player')); // Check stored data
-updateUI();
+updateUI(); 
 setInterval(() => {
     addEnergy();
 }, game.delay);
