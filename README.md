@@ -1,1 +1,1 @@
-#⚡️Energy Clicker⚡️
+Energy Clicker⚡️
